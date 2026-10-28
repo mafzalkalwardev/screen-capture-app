@@ -2,22 +2,69 @@
 
 # Screen Capture App
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Cross-Platform+Screen+Capture+Desktop+App;Electron+%2B+React+%2B+Tesseract+OCR;Export+PDF+DOCX+Markdown" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=6366F1&center=true&vCenter=true&width=900&lines=Cross-Platform+Screen+Capture;Tesseract+OCR+%2B+Export+Tools;PDF%2C+DOCX%2C+Markdown+Output;Electron+desktop+app" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tesseract-OCR-blue?style=for-the-badge" alt="Tesseract" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=6366f1&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/screen-capture-app?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/screen-capture-app?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/screen-capture-app?style=for-the-badge&color=64748b" alt="License" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,electron,nodejs" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>Cross-platform Electron screen capture with Tesseract OCR and export to PDF, DOCX, and Markdown.</strong>
 </p>
 
 </div>
 
 ---
 
-## Project Showcase
+## Trophy Cards
 
-**Screen Capture App** is a cross-platform Electron desktop application for capturing screen content, running OCR with Tesseract.js, and exporting to PDF, DOCX, and Markdown. Built with React, Tailwind CSS, and Framer Motion.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
+
+---
+
+## Stats Cards
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`screen capture` `OCR` `Electron` `Tesseract`
+
+---
 
 ## Features
 
